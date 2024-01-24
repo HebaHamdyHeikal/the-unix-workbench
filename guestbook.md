@@ -874,5 +874,4 @@
 - Swarnava Ghosh
 - Adam X
 - Musta User
-- Heba Hamdy Heikal
 - Heba Hamdy Heikal هبة حمدي هيكل
